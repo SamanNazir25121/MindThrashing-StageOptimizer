@@ -1,2 +1,5 @@
-# MindThrashing-StageOptimizer
-MindThrashing Stage Optimizer, a C++ program 
+Discover the MindThrashing-StageOptimizer, a C++ program tailored to elevate your gaming strategy in the intricate puzzle game "MIND - THRASHING." At its core, this repository introduces a dynamic algorithm designed to strategically select game stages, optimizing points within a limited timeframe. The key components include a custom stack implementation, the Mind_Thrashing class encapsulating essential stage details, and supporting List and Node classes for efficient data management.
+
+The program prompts users to input the number of stages, along with specific details for each stage and the available time for gameplay. The optimization algorithm, implemented through a custom Stack class, then intelligently identifies both individual and collective stage combinations. These combinations represent the best choices for maximizing points within the user-specified time constraints.
+
+This repository not only provides a functional solution but also opens avenues for exploration and customization. Users are encouraged to contribute to the codebase, refining the optimization algorithm, enhancing user interactions, and ultimately elevating the overall gameplay strategy. Join the community, share your insights, and level up your Mind Thrashing skills with the MindThrashing-StageOptimizer.
